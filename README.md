@@ -1,4 +1,5 @@
-# Movie Scraper V2
+# Movie Scraper
+V1.2
 
 一个用于整理本地电影文件、查询 DoubanInfo、生成标准化电影元数据的 Python 项目。
 
