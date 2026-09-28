@@ -1,1 +1,0 @@
-"""Movie scraper application package."""
